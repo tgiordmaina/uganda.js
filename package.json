@@ -1,22 +1,23 @@
 {
-  "name": "trump.js",
+  "name": "uganda.js",
   "version": "1.0.0",
-  "description": "MAKE THE WEB GREAT AGAIN (replaces all images not on the same host)",
-  "main": "trump.js",
+  "description": "MAKE THE WEB GREAT AGAIN (replaces all images on internet by uganda)",
+  "main": "uganda.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bullgit/trump.js.git"
+    "url": "git+https://github.com/tgiordmaina/uganda.js.git"
   },
   "keywords": [
-    "trump",
+    "uganda",
     "fun",
-    "bullgit",
+    "dawae",
+    "knuckles",
     "images"
   ],
-  "author": "Haroen Viaene <hello@haroen.me>",
+  "author": "Thomas Giordmaina <thomas.giordmaina@gmail.com>",
   "license": "CC-BY-4.0",
   "bugs": {
-    "url": "https://github.com/bullgit/trump.js/issues"
+    "url": "https://github.com/tgiordmaina/uganda.js/issues"
   },
-  "homepage": "https://bullg.it/trump.js/"
+  "homepage": "https://github.com/tgiordmaina/uganda.js"
 }
