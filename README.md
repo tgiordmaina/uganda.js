@@ -2,7 +2,8 @@
 
 MAKE THE WEB GREAT AGAIN
 
-I don't want any of those images on my server only uganda !
+I don't want any of those images on internet only uganda !
+![uganda on google images](https://raw.githubusercontent.com/tgiordmaina/uganda.js/master/example.jpg)
 
 
 # Usage
