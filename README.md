@@ -17,6 +17,7 @@ include `uganda.js` on any willing page like this:
 ```
 
 # License
+Made by [@TGIORDMA](https://twitter.com/tgiordma) at [42webstreet](http://www.42webstreet.com/)
 
 Inspired from [@Haroenv](https://haroen.me) at [bullgit](https://bullg.it)
 
