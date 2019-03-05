@@ -2,7 +2,7 @@
 
 MAKE THE WEB GREAT AGAIN
 
-I don't want any of those images on internet only uganda !
+I don't want any of those images on internet, only uganda !
 ![uganda on google images](https://raw.githubusercontent.com/tgiordmaina/uganda.js/master/example.jpg)
 
 
@@ -11,7 +11,7 @@ I don't want any of those images on internet only uganda !
 include `uganda.js` on any willing page like this: 
 
 ```html
-        <script src="path/to/uganda.js"></script>
+        <script src="dawae/to/uganda.js"></script>
     </body>
 </html>
 ```
